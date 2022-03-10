@@ -153,3 +153,7 @@ cython_debug/
 pyfileshare/server/config.py
 pyfileshare/client/config.json
 pyfileshare/client/test.png
+pyfileshare/client/test2.png
+pyfileshare/client/test/test2.png
+pyfileshare/client/test/test.png
+pyfileshare/client/downloader2.py
